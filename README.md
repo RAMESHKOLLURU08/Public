@@ -1,7 +1,7 @@
-GitHub Projects on Computer Vision:
-  •	Instance Segmentation
-  •	Object Detection
-GitHub Projects on NLP
+# GitHub Projects on Computer Vision:
+  -	Instance Segmentation
+  -	Object Detection
+# GitHub Projects on NLP
   •	Resume categorization: Document Classification
   •	Sentiment Analysis: Movie Reviews
 GitHub Projects on Data Science and Machine Learning
